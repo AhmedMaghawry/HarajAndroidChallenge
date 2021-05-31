@@ -20,6 +20,24 @@ Second, a screen that displays the information of a particular Post upon click e
 
 The share button should open up Android's native share sheet to share the title of the Post with other apps.
 
+## My Submission
+
+- First, a screen showing a list of Posts from the json file you'll find in `assets` folder.
+
+<img src="image_1.jpg" height="450" alt="First Screen">
+
+- Second, a screen that displays the information of a particular Post upon click events on the previous screen's list.
+
+<img src="image_2.jpg" height="450" alt="Second Screen">
+
+- Third, The share button should open up Android's native share sheet to share the title of the Post with other apps.
+
+<img src="image_3.jpg" height="450" alt="Second Screen">
+
+- Bounce, You can call the seller from the App directly and request from the user call permission.
+
+<img src="image_4.jpg" height="450" alt="Second Screen">
+
 ## Evaluation
 
 Your work will be evaluated upon the following:

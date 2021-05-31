@@ -7,4 +7,34 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="post_title">
+        <item name="android:layout_marginTop">@dimen/post_title_margin_top</item>
+        <item name="android:layout_marginBottom">@dimen/post_title_margin_bottom</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/green</item>
+        <item name="android:textSize">@dimen/title_size</item>
+    </style>
+
+    <style name="post_sub">
+        <item name="android:textColor">@android:color/darker_gray</item>
+        <item name="android:textSize">@dimen/sub_size</item>
+    </style>
+
+    <style name="post_page_title">
+        <item name="android:textColor">@color/green</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="post_page_sub">
+        <item name="android:textColor">@android:color/darker_gray</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="phone">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
 </resources>

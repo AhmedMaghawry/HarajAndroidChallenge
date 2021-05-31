@@ -1,0 +1,22 @@
+<resources>
+    <dimen name="image_corner_radius">20dp</dimen>
+    <dimen name="post_corner_radius">20dp</dimen>
+    <dimen name="post_desc_margin_bottom">10dp</dimen>
+    <dimen name="post_desc_margin_right">15dp</dimen>
+    <dimen name="post_image_margin">10dp</dimen>
+    <dimen name="post_image_size">100dp</dimen>
+    <dimen name="post_margin">5dp</dimen>
+    <dimen name="post_page_desc_margin">15dp</dimen>
+    <dimen name="post_page_image_height">300dp</dimen>
+    <dimen name="post_page_sub_image_margin_right">10dp</dimen>
+    <dimen name="post_page_sub_image_size">15dp</dimen>
+    <dimen name="post_page_sub_margin">10dp</dimen>
+    <dimen name="post_sub_image_margin_left">10dp</dimen>
+    <dimen name="post_sub_image_size">10dp</dimen>
+    <dimen name="post_title_margin_top">20dp</dimen>
+    <dimen name="post_title_margin_bottom">3dp</dimen>
+    <dimen name="sub_size">11sp</dimen>
+    <dimen name="title_size">15sp</dimen>
+    <dimen name="toolbar_height">60dp</dimen>
+    <dimen name="toolbar_icons_size">25dp</dimen>
+</resources>

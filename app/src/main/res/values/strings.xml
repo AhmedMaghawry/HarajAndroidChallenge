@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HarajTask</string>
+    <string name="test_title">Dummy Title</string>
+    <string name="test_sub">Dummy Sub</string>
 </resources>
